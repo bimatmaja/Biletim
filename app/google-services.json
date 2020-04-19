@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "920049162417",
+    "firebase_url": "https://biletim-82eae.firebaseio.com",
+    "project_id": "biletim-82eae",
+    "storage_bucket": "biletim-82eae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920049162417:android:e67b1f2c34a621e0d96a90",
+        "android_client_info": {
+          "package_name": "com.example.biletim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920049162417-qpi15nj9sgkvl591l4i9dsls904n0a3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3TlBaZItOYuvySeBpESdoZdqT0V3_9-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920049162417-qpi15nj9sgkvl591l4i9dsls904n0a3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
